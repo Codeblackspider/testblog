@@ -1,0 +1,41 @@
+#article {
+    padding: 100px 0;
+    width: 50%;
+    margin: 0 auto;
+}
+#article img {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+
+}
+#article div.content{
+    width: 88%;
+    margin: 0 auto;
+
+}
+#article div.content h2, #article div.content h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    line-height: 1.5em;
+
+}
+#article div.content p{
+    font-size: 15px;
+    color: #666;
+    margin-bottom: 15px;
+    line-height: 1.7em;
+}
+#article div.content b{
+    font-weight: bold;
+    color: #222;
+
+}
+#article div.content i{
+    font-weight: bold;
+    color: #222;
+
+}
+#article div.content b i{
+    font-weight: bold;
+}
